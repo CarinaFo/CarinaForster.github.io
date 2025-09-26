@@ -28,8 +28,8 @@ author:
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Brisbane, AUS"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "QIMR Berghofer"
+  uri              : "https://www.qimrb.edu.au/researchers-and-labs/clinical-brain-networks"
   email            : "carina.forster@qimrb.edu.au" 
 
   # Academic websites
